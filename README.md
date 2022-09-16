@@ -21,9 +21,11 @@ Checkout Times for Users shows the trip durations for all users, both subscriber
 
 ![Checkout Tiimes Gender](https://user-images.githubusercontent.com/106348899/190530864-bccf7384-b451-4501-9bc8-818d0c5cd319.png)
 
-This next chart is almost identical to the previous one with the exception that it includes a breakdown of gender of the users in the trip duration analysis. It is very apparent from this chart that males are the primary users of the NYC bike share program.
+This next chart is almost identical to the previous one with the exception that it includes a breakdown of gender of the users in the trip duration analysis. It is very apparent from this chart that males are the primary users of the NYC bike share program. 
 
 ![Trips by Weekday Hour](https://user-images.githubusercontent.com/106348899/190530973-a2d1bcf3-ff94-48dc-aab5-f09018ef610f.png)
+
+This next visualization is a heatmap that showcases number of bike trips at any given hour on each day of the week for the month of August. The chart clearly shows that the busiest times are Monday through Friday mornings and evenings when most people are commuting for work.  These would most likely be subscribers that utilize this bike share program to get to and from work.  The weekends also show a busy time from about 9 am to 7 pm.  These users would most likely be customers but also some subscribers that are using the bikes to visit tourist attractions, restaurants, and go on other social outings. 
 
 ![Trips by Gender](https://user-images.githubusercontent.com/106348899/190531179-85c8cd9f-cb24-44b2-8c34-f035cb3ca6c1.png)
 
