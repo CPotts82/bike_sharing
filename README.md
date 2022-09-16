@@ -16,8 +16,12 @@ Each of the following visualizations shows a piece of the bike trip analysis req
 
 ![Checkout Times](https://user-images.githubusercontent.com/106348899/190530723-17bfbb6c-3348-4d70-bba9-2764ba1de94a.png)
 
+Checkout Times for Users shows the trip durations for all users, both subscriber and customers throughout the month of August. This chart can be filtered by the number of hours per trip duration.  The majority of bike trips are less than 1 hour and more specifically approximately 5 minutes long. There is a sharp increase in the amount of trips that range from 1 minute to 6 minutes. After the 6 minute peak, there is a sharp then steady decline in the length of bicycle trips.  Most trips are under an hour though there are a sufficient number of bike trips that are over 1 and 2 hours long.  
+
 
 ![Checkout Tiimes Gender](https://user-images.githubusercontent.com/106348899/190530864-bccf7384-b451-4501-9bc8-818d0c5cd319.png)
+
+This next chart is almost identical to the previous one with the exception that it includes a breakdown of gender of the users in the trip duration analysis. It is very apparent from this chart that males are the primary users of the NYC bike share program.
 
 ![Trips by Weekday Hour](https://user-images.githubusercontent.com/106348899/190530973-a2d1bcf3-ff94-48dc-aab5-f09018ef610f.png)
 
