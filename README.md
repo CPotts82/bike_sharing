@@ -3,7 +3,7 @@
 The purpose of the analysis is to study the CitiBike Data from New York City's bikeshare program to help investors decide if a bike sharing program could be successful in Des Moines, Iowa. The analysis studies how the bike share program works in New York City to see how it could possibly transition over to  Des Moines. 
 ### Background 
 
-![General Information](https://user-images.githubusercontent.com/106348899/190514853-63a4b617-a115-468d-957d-36490b9259a3.png)
+![General Info](https://user-images.githubusercontent.com/106348899/190530581-21a9ff59-9d23-4a25-b6ff-b4b5b88dd0e7.png)
 
 This dashboard shows multiple visualizations that represent important background pieces of information for this analysis.  The analysis focused on the citibike data taken from the month of August. At the top of the visualization it shows the total number of bike rides for the month of August to be 2,344,224.  The bar graph underneath August bike trips shows the peak hours during the month.  Overall, the busiest hours were during business hours with peak times in the morning and evening when people would be commuting to and from work. 
 
@@ -12,4 +12,16 @@ At the bottom of the dashboard there are two graphs: a pie chart and a line grap
 ## Resources
 VS Code, Tableau Public, 201908_citibike_tripdata.csv, nyc_bike_trip.csv
 ## Results
+
+![Checkout Times](https://user-images.githubusercontent.com/106348899/190530723-17bfbb6c-3348-4d70-bba9-2764ba1de94a.png)
+
+![Checkout Tiimes Gender](https://user-images.githubusercontent.com/106348899/190530864-bccf7384-b451-4501-9bc8-818d0c5cd319.png)
+
+![Trips by Weekday Hour](https://user-images.githubusercontent.com/106348899/190530973-a2d1bcf3-ff94-48dc-aab5-f09018ef610f.png)
+
+![Trips by Gender](https://user-images.githubusercontent.com/106348899/190531179-85c8cd9f-cb24-44b2-8c34-f035cb3ca6c1.png)
+
+![Gender Weekday Trips](https://user-images.githubusercontent.com/106348899/190531306-691dd748-1ed8-424c-bd57-e11ac6869394.png)
+
+
 ## Summary
