@@ -1,5 +1,6 @@
 # bike_sharing
 ## Analysis Overview
+### Purpose
 The purpose of the analysis is to study the CitiBike Data from New York City's bikeshare program to help investors decide if a bike sharing program could be successful in Des Moines, Iowa. The analysis studies how the bike share program works in New York City to see how it could possibly transition over to  Des Moines. One of the potential investors has requested a bike trip analysis to gain more insight into this proposed program. 
 ### Background 
 
