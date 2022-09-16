@@ -29,7 +29,11 @@ This next visualization is a heatmap that showcases number of bike trips at any 
 
 ![Trips by Gender](https://user-images.githubusercontent.com/106348899/190531179-85c8cd9f-cb24-44b2-8c34-f035cb3ca6c1.png)
 
+This heatmap is very similar to the previous one, it shows the number of bike trips for each hour of each weekday in August. The difference here is that it is filtered by gender. The first heat block shows female users and it is apparent that Monday through Friday morning and evening work commutes are busiest.  Females are also using the bikes more frequently on Saturdays from about 9 am to 4 pm and Sundays from about 10 am to 4 pm. Males heavily utilize these bikes for the work communtes Monday through Friday. Saturdays are also very busy for male bike riders from about 9 am to 7 pm and then on Sundays from about 9 am to 7 pm as well. There is also a heat block with 'unknown' gender (will explain what this could mean with the next graph) that shows a heavier use on Saturdays from mid-morning to evening. There is an uptick in usage as the week progresses starting on Thursdays and continuing through Sundays suggesting that these users may be utilizing the bikes for more tourist and social attractions. 
+
 ![Gender Weekday Trips](https://user-images.githubusercontent.com/106348899/190531306-691dd748-1ed8-424c-bd57-e11ac6869394.png)
+
+This final visualization is a heatmap that breaks downs bike trips by day of the week, 
 
 
 ## Summary
