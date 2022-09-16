@@ -1,6 +1,6 @@
 # bike_sharing
 ## Analysis Overview
-The purpose of the analysis is to study the CitiBike Data from New York City's bikeshare program to help investors decide if a bike sharing program could be successful in Des Moines, Iowa. The analysis studies how the bike share program works in New York City to see how it could possibly transition over to  Des Moines. 
+The purpose of the analysis is to study the CitiBike Data from New York City's bikeshare program to help investors decide if a bike sharing program could be successful in Des Moines, Iowa. The analysis studies how the bike share program works in New York City to see how it could possibly transition over to  Des Moines. One of the potential investors has requested a bike trip analysis to gain more insight into this proposed program. 
 ### Background 
 
 ![General Info](https://user-images.githubusercontent.com/106348899/190530581-21a9ff59-9d23-4a25-b6ff-b4b5b88dd0e7.png)
@@ -12,8 +12,10 @@ At the bottom of the dashboard there are two graphs: a pie chart and a line grap
 ## Resources
 VS Code, Tableau Public, 201908_citibike_tripdata.csv, nyc_bike_trip.csv
 ## Results
+Each of the following visualizations shows a piece of the bike trip analysis requested by the investors. Underneath each graph is an explanation and the results of the specific piece of the overall anlaysis. 
 
 ![Checkout Times](https://user-images.githubusercontent.com/106348899/190530723-17bfbb6c-3348-4d70-bba9-2764ba1de94a.png)
+
 
 ![Checkout Tiimes Gender](https://user-images.githubusercontent.com/106348899/190530864-bccf7384-b451-4501-9bc8-818d0c5cd319.png)
 
