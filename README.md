@@ -37,7 +37,7 @@ This heatmap is very similar to the previous one, it shows the number of bike tr
 
 ![Gender Weekday Trips](https://user-images.githubusercontent.com/106348899/190531306-691dd748-1ed8-424c-bd57-e11ac6869394.png)
 
-This final visualization is a heatmap that breaks downs bike trips by day of the week, gender and finally by the type of user; customer or subscriber. The majority of males and females that use this program are subscribers.  Males make up the majority of subscribers. It is interesting to note that the 'Unknown' gender is predominately made up of more customers than subscribers. The 'Unknown' gender users mostly use these bikes on Saturdays and Sundays showing that they are most likely tourists or city dwellers that occasionally use bikes for social outings.
+This final visualization is a heatmap that breaks downs bike trips by day of the week, gender and finally by the type of user; customer or subscriber. The majority of males and females that use this program are subscribers.  Males make up the majority of subscribers. It is interesting to note that the 'Unknown' gender is predominately made up of more customers than subscribers. The 'Unknown' gender users mostly utilize these bikes on Saturdays and Sundays showing that they are likely tourists or city dwellers that occasionally use bikes for social outings.
 
 
 ## Summary
