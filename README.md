@@ -11,6 +11,7 @@ At the bottom of the dashboard there are two graphs: a pie chart and a line grap
 
 ## Resources
 VS Code, Tableau Public, 201908_citibike_tripdata.csv, nyc_bike_trip.csv
+
 ** The full Tableau Story can be found at:
 [link to dashboard](https://public.tableau.com/app/profile/clara.potts/viz/CitiBikeChallenge_16632661232750/NYCCitiBikeAnalysis?publish=yes)
 
